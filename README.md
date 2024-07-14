@@ -13,10 +13,6 @@ Users can run the application with `node index.js` and follow the prompts to ent
 
 ## sources
 
-(personal communication in class with while asking questions in office hours with Jermey Henry May 16,2024)
-
-Carver, J.(2022). Full Stack Application Development. EdX.
-
 Xpert is an AI Learning Assistant provided by EdX, an online education technology company. Xpert
 
 OpenAI. (n.d.). ChatGPT. Retrieved May 19, 2024, from https://www.openai.com/chatgpt
