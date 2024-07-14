@@ -1,7 +1,7 @@
-# jdsf
+# Popcorn Picks
 
 ## Description
-jadsf
+user can search for a movie and then add movie to watchlist. User can then click on watchlist button which will redirect to watclist page. Then user can decided to add movie watched to top 5 or delete them.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,11 +13,11 @@ jadsf
 
 ## Installation
 <a id="installation"></a>
-iuadsfu
+there are none
 
 ## Usage
 <a id="usage"></a>
-uadf
+Search movie, then add movie to watchlist page, then either add them to top 5 or delete them
 
 ## License
 <a id="license"></a>
@@ -26,12 +26,12 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 <a id="contributing"></a>
-dysaf
+reporting bugs for project, suggestion on project, enhancements on project
 
 ## Tests
 <a id="tests"></a>
-audsf
+test project by searching for movies and checking the CDT to see if the movies are being stored in local storage as you ass them 
 
 ## Questions
 <a id="questions"></a>
-For questions about this project, please reach out to [iuadsf](https://github.com/iuadsf) or contact kadsgf.
+For questions about this project, please reach out to [https://github.com/TravisHaynie](https://github.com/https://github.com/TravisHaynie) or contact travisis4you@gmail.com.
